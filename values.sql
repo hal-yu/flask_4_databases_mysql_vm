@@ -7,7 +7,7 @@ VALUES
 ('Atsumu', 'Miya', 'Psychiatry', '6461115454'),
 ('Osamu', 'Miya', 'Internal Medicine', '6461115456'),
 ('Satoru', 'Gojo', 'Cardiology', '6462221314'),
-('Chuuya', 'Nakhara', 'Pediatrics', '6461211218');
+('Chuuya', 'Nakahara', 'Pediatrics', '6461211218');
 
 INSERT INTO patients(
     first_name,
